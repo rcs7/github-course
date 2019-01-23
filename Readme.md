@@ -1,5 +1,7 @@
 # git course
 
+ok
+inserindo mais coisas
 Botando qlq coisa aq
    Agora vai
 Este eh um repositorio teste para ensinar como o git funciona
